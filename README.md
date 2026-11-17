@@ -1,3 +1,7 @@
+> **Este projeto mudou de endereço.** A versão mantida está em
+> [aprenda-com-ryan-morais › mini_projetos › jogo_da_cobrinha](https://github.com/ryanvmorais/aprenda-com-ryan-morais/tree/main/mini_projetos/jogo_da_cobrinha).
+> Este repositório fica arquivado para não quebrar links antigos.
+
 ![Jogo da Cobrinha em Python: captura real do terminal com a cobra em movimento](assets/jogo-da-cobrinha-python-terminal.svg)
 
 # 🐍 Jogo da Cobrinha em Python | Exercício de Lógica de Programação
